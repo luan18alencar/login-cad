@@ -6,7 +6,7 @@ html {
   font-family: sans-serif;
 }
 
-/* Centralize o contêiner para uma experiência de login focada */
+/* Centraliza o contêiner para uma experiência de login focada */
 .container {
   display: flex;
   justify-content: center;
@@ -15,7 +15,7 @@ html {
   background-color: #f0f0f0; /*  Fundo claro para melhor contraste */
 }
 
-/* Estilize o formulário com uma aparência limpa e moderna */
+/* Estiliza o formulário para deixar uma aparência limpa e moderna */
 .form-control {
   width: 100%; /* Corresponde à largura do contêiner*/
   padding: 15px 20px;
@@ -27,7 +27,7 @@ html {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Box-shadow sutil para profundidade*/
 }
 
-/* Melhorar o estilo do cabeçalho "Login*/
+/* Melhora o estilo do cabeçalho "Login*/
 .form-control h3 {
   margin: 0 0 15px;
   text-align: center;
