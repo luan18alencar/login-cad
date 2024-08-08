@@ -46,7 +46,21 @@ function criarLista(){
     // TR CRIA LINHA NA TABELA
     // TD CRIA COLUNA
     // (+=) MANTÉM O QUE JA TEM E ADICIONA EM BAIXO
-        tabela += "<tr><td>" + dadosLista[i] + "</td><td></td></tr>";
+        tabela += "<tr><td>" + dadosLista[i] + "</td><td> <button onclick='editar(this.parentNode.parentNode.rowIndex)'>Editar</button>    <button onclick='excluir(this.parentNode.parentNode.rowIndex)'>Excluir</button>    </td></tr>";
         document.getElementById('tabela').innerHTML = tabela;
     }
+}
+// FUNÇÃO PARA EXCLUIR NOME DE LISTA
+// EXCLUIR UM ELEMENTO DA VARIÁVEL I
+//Função para excluir nome de lista
+function excluir(i){ // apaga um elemento de posição i da array
+    dadosLista.splice((i - 1), 1); //slice: extrai uma parte de uma string e a retorna como uma nova string, sem modificar a string original.
+    document.getElementById('tabela').deleteRow(i); //deleteRow = apagar linha
+}
+ 
+//Função para editar nome da lista
+function editar(i){
+    document.getElementById("nomeUser").value = dadosLista
+    [(i - 1)];
+    dadosLista.splice(dadosLista[(i -1)], 1);
 }
