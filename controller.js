@@ -27,8 +27,18 @@ function acessar(){
 }
     //  FUNÇÃO DE CRIAÇÃO DE LISTA
     function criaLista(){
+    // VARIAVEL TABELA ESTA A GUARDAR O CABEÇALHO
     let tabela = document.getElementById('tabela').innerHTML = "<tr><th>Nome Usuário</th><th>Ações</th></tr>";
+    // CRIA LAÇO DE REPETIÇÃO FOR
+    // LENGTH AUMENTA O TAMANHO DA LISTA
     for(let i=0; i <= (dadosLista.length -1); i++){
+    // TR CRIA LINHA NA TABELA
+    // TD CRIA COLUNA
+        tabela += "<tr><td>" + dadosLista[I] + "</td><td></tr><tr>";
 
     }
 }
+
+
+
+//
