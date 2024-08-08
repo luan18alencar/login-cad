@@ -3,11 +3,6 @@
     Este projeto consiste em um formulário de login e validação de cpf simples implementado usando HTML e CSS. O objetivo é criar uma interface amigável e visualmente atraente para que os usuários possam se conectar a um sistema ou aplicativo.
 
 
-## Tecnologias Utilizadas:
-
-    HTML: Para estruturar o conteúdo da página e definir os elementos do formulário.
-
-    CSS: Para estilizar o layout, cores, fontes e outros aspectos visuais do formulário.    
 
 ## Funcionalidades:
 
@@ -64,3 +59,8 @@
 #### Funcionamento:
     Obtém o nome da posição i do array dadosLista e coloca-o no campo de entrada.
     emove o elemento na posição i do array dadosLista.
+    
+## Tecnologias Utilizadas:
+
+    HTML: Para estruturar o conteúdo da página e definir os elementos do formulário.
+    CSS: Para estilizar o layout, cores, fontes e outros aspectos visuais do formulário.    
