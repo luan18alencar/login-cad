@@ -95,5 +95,7 @@
 
 ![gif](img/demo.gif)
 
-# Autores:
+## Autor
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140835172?v=4 " width=115><br><sub>Luan Alencar</sub>](https://github.com/luan18alencar) |  
+| :---: |
 
