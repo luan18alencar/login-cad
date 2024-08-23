@@ -110,7 +110,7 @@
 # Imagens Demonstrativos:
 
 ![gif](img/demo.gif)
-![gif](img/VID-20240823-WA0006.mp4)
+![mp4](img/VID-20240823-WA0006.mp4)
 
 
 ## Mudanças no projeto
