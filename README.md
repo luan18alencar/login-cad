@@ -103,7 +103,8 @@
 ## Tecnologias Utilizadas:
 
     HTML: Para estruturar o conteúdo da página e definir os elementos do formulário.
-    CSS: Para estilizar o layout, cores, fontes e outros aspectos visuais do formulário.    
+    CSS: Para estilizar o layout, cores, fontes e outros aspectos visuais do formulário.
+        
 
 # Imagens Demonstrativos:
 
