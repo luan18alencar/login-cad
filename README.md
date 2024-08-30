@@ -120,7 +120,8 @@
 ## Funcionamento 
      A verificação de email e feita a partir de quando o email é digitado, se não for digitado aparecerá um pop-up informando "Esse email é inválido", se não possuir @ também haverá um erro.
     A verificação de email é feita como uma continuação do projeto, aparece quando o email não é digitado, e se não for informado aparecerá um pop-up informando que "o cpf não foi digitado"
-
+    
+ ![png](img/demo3.png)
 
 
 
