@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 function acessar() {
     let loginEmail = document.getElementById('loginEmail').value;
     let loginSenha = document.getElementById('loginSenha').value;
@@ -111,7 +109,6 @@ function validarCPF(cpf) {
     }
     return resto === parseInt(cpf.substring(10, 11));
 }
-=======
 // Validação de preenchimento do formulário de login
 function acessar() {
     let loginEmail = document.getElementById('loginEmail').value;
@@ -189,4 +186,4 @@ function acessar() {
       // Remove a linha correspondente da tabela
       document.getElementById('tabela').deleteRow(i + 1); // +1 pois o cabeçalho ocupa a linha 0
           }
->>>>>>> 0598cf735607febf91edf434622e56dd80f11203
+
