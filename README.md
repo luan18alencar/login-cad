@@ -1,4 +1,4 @@
-## Projeto de Login HTML/CSS
+# Projeto de Login HTML/CSS
 
     Este projeto consiste em um formulário de login e validação de cpf simples implementado usando HTML e CSS. O objetivo é criar uma interface amigável e visualmente atraente para que os usuários possam se conectar a um sistema ou aplicativo.
 
@@ -17,6 +17,8 @@
 [imagens_demonstrativas](#imagens-demonstrativos)
 
 [autor](#autor)
+
+[mudanças](mudanças-no-projeto)
 
 ## Funcionalidades:
 
@@ -109,9 +111,23 @@
 # Imagens Demonstrativos:
 
 ![gif](img/demo.gif)
+![mp4](img/demo2.gif)
+
+
+## Mudanças no projeto
+
+     O projeto passou por atualizações e foi adicionada uma nova funcionalidade, a verificação de email e a verificação de CPF
+## Funcionamento 
+     A verificação de email e feita a partir de quando o email é digitado, se não for digitado aparecerá um pop-up informando "Esse email é inválido", se não possuir @ também haverá um erro.
+    A verificação de email é feita como uma continuação do projeto, aparece quando o email não é digitado, e se não for informado aparecerá um pop-up informando que "o cpf não foi digitado"
+
+
+
 
 
 ## Autor
 |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140835172?v=4 " width=115><br><sub>Luan Alencar</sub>](https://github.com/luan18alencar) |  
 | :---: |
 
+
+(Esse projeto está sendo produzido ainda, necessita de melhorias)
